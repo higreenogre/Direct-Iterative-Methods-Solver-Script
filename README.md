@@ -5,7 +5,7 @@
 1. GAUSS ELIMINATION
 2. GAUSS-JORDAN ELIMINATION
 3. THE MATRIX INVERSE METHOD
-( here I've added a separate function to calculate the inverse )
+( here I've added a separate function to calculate the DETERMINANT and INVERSE )
 4. DOOLITTLE LU FACTORIZATION
 
 ## The codes for the different ITERATIVE methods are :
